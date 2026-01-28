@@ -1,21 +1,30 @@
 .container{
-    width:700px;
+    width:680px;
     height:730px;
     border-radius:50px;
     border:20px solid black;
     margin: 50px 200px;
+    background-color: rgb(250, 244, 236);
   }
   .header{
     margin:20px 20px;
-    border:1px solid red;
   }
   h1{
     font-family: 'Arial';
-    font-size:45px;
+    font-size:60px;
     font-weight: 900;
     letter-spacing: -2px;
   }
   span{
     color:red;
-    
+    word-spacing: 220px;
+  }
+  p{
+
+  }
+  .text-area {
+    display: flex;
+    font-family: 'Arial';
+    font-size: 12px;
+    color: grey;
   }
