@@ -20,11 +20,18 @@
     word-spacing: 220px;
   }
   p{
-
+    margin: 5px;;
   }
   .text-area {
     display: flex;
     font-family: 'Arial';
     font-size: 12px;
     color: grey;
+    margin:0 15px
+  }
+  .main-container {
+    width:680px;
+    height:200px;
+    background-color: rgb(248, 32, 32);
+    margin: 10px 0;
   }
