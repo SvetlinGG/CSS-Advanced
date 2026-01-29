@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+}
 .container{
     width:680px;
     height:730px;
@@ -42,4 +45,12 @@
     position: absolute;
     background-color: black;
     margin-top: 60px;
+  }
+  .brown {
+    width: 140px;
+    height: 90px;
+    position: absolute;
+    border:solid red;
+    border-width: 1px 10px;
+    background:rgba(189, 178, 154, 0.748);
   }
