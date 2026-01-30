@@ -55,3 +55,10 @@ body {
     background:rgba(189, 178, 154, 0.748);
     margin-top: 50px;
   }
+  .first-num {
+    color: white;
+    word-spacing: 140px;
+    font-size: 10px;
+    border:1px solid red;
+    margin:0px 20px
+  }
