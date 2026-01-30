@@ -92,7 +92,7 @@ span {
 }
 
 .black {
-  width: 540px;
+  width: 340px;
   height: 160px;
   position: absolute;
   background-color: black;
@@ -101,12 +101,12 @@ span {
 }
 
 .brown {
-  width: 280px;
+  width: 200px;
   height: 120px;
   position: absolute;
-  background: rgba(139, 128, 104, 0.85);
-  top: 20px;
-  left: 20px;
+  background: rgb(154, 82, 82);
+  top: 50px;
+  left: 0px;
   border-left: 8px solid #E85A4F;
   border-right: 8px solid #E85A4F;
 }
@@ -114,7 +114,6 @@ span {
 .number-box {
   width: 200px;
   height: 80px;
-  background-color: #E85A4F;
   position: absolute;
   top: 20px;
   left: 20px;
@@ -122,11 +121,11 @@ span {
 
 .big-number {
   color: white;
-  font-size: 72px;
+  font-size: 62px;
   font-weight: 100;
   position: absolute;
   top: 5px;
-  left: 20px;
+  left: 10px;
   line-height: 1;
 }
 
